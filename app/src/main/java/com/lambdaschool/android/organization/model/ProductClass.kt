@@ -4,6 +4,6 @@ class ProductClass (
     val productName: String,
     val productDescription: String,
     val productPrice: Double,
-    val productTax: Double = 0.06,
-    val productDiscount: Double = 0.10
+    val productTax: Double,
+    val productDiscount: Double
 )
