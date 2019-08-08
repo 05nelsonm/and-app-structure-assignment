@@ -1,4 +1,4 @@
-package com.lambdaschool.android.organization
+package com.lambdaschool.android.organization.util
 
 class TextUtils {
     companion object {

@@ -1,8 +1,8 @@
-package com.lambdaschool.android.organization
+package com.lambdaschool.android.organization.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import kotlinx.android.synthetic.main.activity_main.*
+import com.lambdaschool.android.organization.R
 
 class MainActivity : AppCompatActivity() {
 
